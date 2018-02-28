@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: testLayout
+name: TestHeader
 ---
 
 
