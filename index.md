@@ -1,7 +1,8 @@
 ---
-title: TestTitle
-header: TestHeader
-decription: DecriptionHere
+title: TekCastPork
+header: Home Page
+decription:
+layout: modified
 ---
 
 ## Welcome to GitHub Pages
