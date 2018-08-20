@@ -28,16 +28,15 @@ NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI 
 
 #### CMOS Devices
 
-| Device Name  | Datasheet |
-| ------------- | ------------- |
-| CD4001BCN  | [Texas Instruments](https://drive.google.com/open?id=1-Jo6tLunuOtY07XgLxTv4FBo0hu1gmj2)  |
-| CD4011BCN  | [Texas Instruments](https://drive.google.com/open?id=1cJwr-TIiIKSl6fuCsiZ0-hBzUZ9PUiWW)  |
-| HCF4093BE  | [STMicroelectronics](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)  |
+[CD4001BCN](https://drive.google.com/open?id=1-Jo6tLunuOtY07XgLxTv4FBo0hu1gmj2)
 
+[CD4011BCN](https://drive.google.com/open?id=1cJwr-TIiIKSl6fuCsiZ0-hBzUZ9PUiWW)
+
+[HCF4093BE](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)
 #### TTL Devices
-74LS14	[Motorola](https://drive.google.com/open?id=1fQhBJ4_jKbICUot5DpbuRwQqskIvHJ7e)        [SGS-Thomson](https://drive.google.com/open?id=1iQtJTo3Rn6prBQfGeO-uU-U5MBRo_6fR)
+74LS14	[Motorola](https://drive.google.com/open?id=1fQhBJ4_jKbICUot5DpbuRwQqskIvHJ7e)&nbsp;&nbsp;&nbsp;&nbsp;[SGS-Thomson](https://drive.google.com/open?id=1iQtJTo3Rn6prBQfGeO-uU-U5MBRo_6fR)
 
-74LS11	[TI/NS](https://drive.google.com/open?id=1uhmLi000f7gkz8Og_ofggzhKaYqJfo3L)           [Fairchild](https://drive.google.com/open?id=1UBkqHrxSMiywZBr7KTJ_6nr8JGVZXJlX)
+74LS11	[TI/NS](https://drive.google.com/open?id=1uhmLi000f7gkz8Og_ofggzhKaYqJfo3L)&nbsp;&nbsp;&nbsp;&nbsp;[Fairchild](https://drive.google.com/open?id=1UBkqHrxSMiywZBr7KTJ_6nr8JGVZXJlX)
 []()
 []()
 []()
