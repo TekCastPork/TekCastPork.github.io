@@ -27,6 +27,7 @@ NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI 
 ### Basic Logic ICs
 
 #### CMOS Devices
+
 | Device Name  | Datasheet |
 | ------------- | ------------- |
 | CD4001BCN  | [Texas Instruments](https://drive.google.com/open?id=1-Jo6tLunuOtY07XgLxTv4FBo0hu1gmj2)  |
