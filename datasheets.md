@@ -5,11 +5,11 @@ header: DataSheets
 layout: modified2
 ---
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 # The Vault of ENT Datasheets
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
@@ -28,10 +28,13 @@ NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI 
 
 #### CMOS Devices
 [CD4001BCN]()
+
 [CD4011BCN]()
+
 [HCF4093BE]()
 #### TTL Devices
 74LS14	[Motorola]()	[SGS-Thomson]()
+
 74LS11	[TI/NS]()	[Fairchild]()
 []()
 []()
