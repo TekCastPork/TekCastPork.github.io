@@ -40,11 +40,11 @@ NOTICE 2: All the ships here are ones that I have in my kit, so some of them may
 
 ### TTL Devices
 
-74xx14	[Motorola](https://drive.google.com/open?id=1fQhBJ4_jKbICUot5DpbuRwQqskIvHJ7e)&nbsp;&nbsp;&nbsp;&nbsp;[SGS-Thomson](https://drive.google.com/open?id=1iQtJTo3Rn6prBQfGeO-uU-U5MBRo_6fR)
+74xx14	[Motorola](https://drive.google.com/open?id=1fQhBJ4_jKbICUot5DpbuRwQqskIvHJ7e)&nbsp;&nbsp;-&nbsp;&nbsp;[SGS-Thomson](https://drive.google.com/open?id=1iQtJTo3Rn6prBQfGeO-uU-U5MBRo_6fR)
 
-74xx11	[TI/NS](https://drive.google.com/open?id=1uhmLi000f7gkz8Og_ofggzhKaYqJfo3L)&nbsp;&nbsp;&nbsp;&nbsp;[Fairchild](https://drive.google.com/open?id=1UBkqHrxSMiywZBr7KTJ_6nr8JGVZXJlX)
+74xx11	[TI/NS](https://drive.google.com/open?id=1uhmLi000f7gkz8Og_ofggzhKaYqJfo3L)&nbsp;&nbsp;-&nbsp;&nbsp;[Fairchild](https://drive.google.com/open?id=1UBkqHrxSMiywZBr7KTJ_6nr8JGVZXJlX)
 
-74xx00  [Texas Instruments](https://drive.google.com/open?id=12UPX3YyyE3NnyO47v2kJkTKZGDXTuCuJ)&nbsp;&nbsp;&nbsp;&nbsp;[National Semiconductor](https://drive.google.com/open?id=1Q9AZgkWnO7tkEleGIYC8hlYjg4FBZX9r)
+74xx00  [Texas Instruments](https://drive.google.com/open?id=12UPX3YyyE3NnyO47v2kJkTKZGDXTuCuJ)&nbsp;&nbsp;-&nbsp;&nbsp;[National Semiconductor](https://drive.google.com/open?id=1Q9AZgkWnO7tkEleGIYC8hlYjg4FBZX9r)
 
 74xx02  [Texas Instruments / National Semiconductor](https://drive.google.com/open?id=11DBu58uvU3yl-oLrxovHZ6GtAUQNv0Kx)
 
