@@ -15,7 +15,9 @@ This is a collection of datasheets for the ICs currently used in Electronics Eng
 This collection is sorted as follows:
 
 ```
-- Basic Logic (AND, NAND, OR, ETC) in both TTL and CMOS
+- [Basic Logic](#basic-logic-ics) (AND, NAND, OR, ETC)
+		- [CMOS](#cmos-devices)
+		- [TTL](#ttl-devices)
 - Complex Logic (D-Flip Flop, JK, Counters, ETC) in both CMOS and TTL
 - Specialty (555 timer, DAC, ADC, ETC)
 ```
@@ -50,14 +52,8 @@ NOTICE 2: All the ships here are ones that I have in my kit, so some of them may
 
 74xx04  [Texas Instruments](https://drive.google.com/open?id=1B7OrvYmHSu7DNWeyhhpg7opB1oUdhlbC)
 
-  []()
+74xx08  [Texas Instruments](https://drive.google.com/open?id=1Kst5falsbtr1q-MPu-PVpUyMvPpKlGFE)
 
-  []()
+74xx32  [Texas Instruments](https://drive.google.com/open?id=1qd90V8W98WJT0eJFiVAbMeVQsh_B6UUq)
 
-  []()
-
-  []()
-
-  []()
-
-  []()
+74xx86  [Texas Instruments](https://drive.google.com/open?id=1hoYeUkGzmJT91FYZjoB8P2LG9bd21fjx)
