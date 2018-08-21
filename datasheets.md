@@ -40,6 +40,8 @@ NOTICE 2: All the ships here are ones that I have in my kit, so some of them may
 
 [HCF4093BE](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)
 
+[Back To Top ^](#the-fault-of-ent-datasheets)
+
 ### TTL Devices
 
 74xx14	[Motorola](https://drive.google.com/open?id=1fQhBJ4_jKbICUot5DpbuRwQqskIvHJ7e)&nbsp;&nbsp;-&nbsp;&nbsp;[SGS-Thomson](https://drive.google.com/open?id=1iQtJTo3Rn6prBQfGeO-uU-U5MBRo_6fR)
@@ -60,6 +62,8 @@ NOTICE 2: All the ships here are ones that I have in my kit, so some of them may
 
 74xx86  [Texas Instruments](https://drive.google.com/open?id=1hoYeUkGzmJT91FYZjoB8P2LG9bd21fjx)
 
+[Back To Top ^](#the-fault-of-ent-datasheets)
+
 ## Complex Logic
 
 ### CMOS
@@ -76,6 +80,8 @@ MC14519BCP [Motorola](https://drive.google.com/open?id=1g1SOeCS3kdNTH6JH8_D50nkJ
 
 MC14528BCP [Motorola](https://drive.google.com/open?id=1c_yyOcM3abUXGCb-qL_mpHinqersTxZk)
 
+[Back To Top ^](#the-fault-of-ent-datasheets)
+
 
 ### TTL
 
@@ -90,6 +96,8 @@ MC14528BCP [Motorola](https://drive.google.com/open?id=1c_yyOcM3abUXGCb-qL_mpHin
 74xx221 [Texas Instruments](https://drive.google.com/open?id=1LisIWmAtEB57dXu3Ls_RvJJmz5qzzNM6)
 
 74xx112 [Texas Instruments](https://drive.google.com/open?id=1BgNmtFbU1e6_l001hqcVnIhUC0nOo5MX)
+
+[Back To Top ^](#the-fault-of-ent-datasheets)
 
 ## Specialty ICs
 
@@ -112,3 +120,5 @@ TL082CP [Texas Instruments](https://drive.google.com/open?id=1OyBTGZdDtJVKvmaXyl
 TLC555CP [Texas Instruments](https://drive.google.com/open?id=1woYvqFN18ofIOwZGe3b7lKZZVephdn8U)
 
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
+
+[Back To Top ^](#the-fault-of-ent-datasheets)
