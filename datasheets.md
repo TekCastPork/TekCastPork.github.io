@@ -16,10 +16,12 @@ This collection is sorted as follows:
 
 
 - [Basic Logic](#basic-logic-ics) (AND, NAND, OR, ETC)
-		- [CMOS](#cmos-devices)
-		- [TTL](#ttl-devices)
-- Complex Logic (D-Flip Flop, JK, Counters, ETC) in both CMOS and TTL
-- Specialty (555 timer, DAC, ADC, ETC)
+	- [CMOS](#cmos-devices)
+	- [TTL](#ttl-devices)
+- [Complex Logic](#complex-logic) (D-Flip Flop, JK, Counters, ETC)
+	- [CMOS](#cmos)
+	- [TTL](#ttl)
+- [Specialty](#specialty-ics) (555 timer, DAC, ADC, ETC)
 
 
 If an IC has been supplied from various companies then each company's datasheet is available.
@@ -57,3 +59,56 @@ NOTICE 2: All the ships here are ones that I have in my kit, so some of them may
 74xx32  [Texas Instruments](https://drive.google.com/open?id=1qd90V8W98WJT0eJFiVAbMeVQsh_B6UUq)
 
 74xx86  [Texas Instruments](https://drive.google.com/open?id=1hoYeUkGzmJT91FYZjoB8P2LG9bd21fjx)
+
+## Complex Logic
+
+### CMOS
+
+CD4013BCN [Texas Instruments](https://drive.google.com/open?id=1tLciImkylE0huxnZY4Xmvg6pvI-VDAHb)
+
+CD4027BCN [Texas Instruments](https://drive.google.com/open?id=1n6yCNsQ8J0dI9l0C6PNNemjLz8mmIygP)
+
+CD4042BCN [Texas Instruments](https://drive.google.com/open?id=1nd9K5HYpf1saBwIp9WysH5jA1MTHSv2T)
+
+HCF40194BE [Texas Instruments](https://drive.google.com/open?id=1ZVJUhfIxCZkN4fL4hGZk2gN8asBYBE78)
+
+MC14519BCP [Motorola](https://drive.google.com/open?id=1g1SOeCS3kdNTH6JH8_D50nkJTWrXsnnI)
+
+MC14528BCP [Motorola](https://drive.google.com/open?id=1c_yyOcM3abUXGCb-qL_mpHinqersTxZk)
+
+
+### TTL
+
+74xx90 [Texas Instruments](https://drive.google.com/open?id=1MSK8EqDNjxmWz1kuaAcZLXVo5fZjE3T9)
+
+74xx47 [Texas Instruments](https://drive.google.com/open?id=1NhdHkFsDoy6_s6z0xk3T01DMMXsAQhyj)
+
+74xx74 [Texas Instruments](https://drive.google.com/open?id=1xBGC7yKRxQwAfOFCzoSz5Wt_HY0LaKgZ)
+
+74xx193 [Texas Instruments](https://drive.google.com/open?id=1S32R4mqi0TtN0dZD0CMg3tiMlQtRTsVz)
+
+74xx221 [Texas Instruments](https://drive.google.com/open?id=1LisIWmAtEB57dXu3Ls_RvJJmz5qzzNM6)
+
+74xx112 [Texas Instruments](https://drive.google.com/open?id=1BgNmtFbU1e6_l001hqcVnIhUC0nOo5MX)
+
+## Specialty ICs
+
+ADC0804LCN [Texas Instruments](https://drive.google.com/open?id=1rKV0_a4NVUKdHlRuLQJdneXoIEL16dtX)
+
+DAC0808LCN [Texas Instruments](https://drive.google.com/open?id=1wM3DyJmQWhzrY_HCvC0rqs1gzDfqlsIt)
+
+LM324 [Fairchild Semiconductor](https://drive.google.com/open?id=1xbeHD2CDv3UmxIgt9lQaaJR2-jRRU570)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments AN variety](https://drive.google.com/open?id=1Xj8xCuCDmd-oWxMEfa9ruNhR3wTK9Clm)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments N variety](https://drive.google.com/open?id=1UkQpAlRUPesoJpe7F-E8JdOImewLOrqi)
+
+LM211 [STMicroelectronics](https://drive.google.com/open?id=1Rh33Ru9dFmxr7qkW4uLdCJabyLv7jku6)
+
+LM311 [Texas Instruments](https://drive.google.com/open?id=1np1-28nHkJUtLR3kc9WqFm-csIz920p-)
+
+LM339 [UniSonic Technologies](https://drive.google.com/open?id=1E5hPBnfsueUYzsulBthxA3Cw9r_ds-vP)
+
+LM741 [Texas Instruments](https://drive.google.com/open?id=1houmN-Irk56Wm9-ASu5TMZV6ymhWiW8A)
+
+TL082CP [Texas Instruments](https://drive.google.com/open?id=1OyBTGZdDtJVKvmaXyl_9ucG09J0NHgbc)
+
+TLC555CP [Texas Instruments](https://drive.google.com/open?id=1woYvqFN18ofIOwZGe3b7lKZZVephdn8U)
+
+UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
