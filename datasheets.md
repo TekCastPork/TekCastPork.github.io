@@ -14,13 +14,13 @@ layout: modified2
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
 
-```
+
 - [Basic Logic](#basic-logic-ics) (AND, NAND, OR, ETC)
 		- [CMOS](#cmos-devices)
 		- [TTL](#ttl-devices)
 - Complex Logic (D-Flip Flop, JK, Counters, ETC) in both CMOS and TTL
 - Specialty (555 timer, DAC, ADC, ETC)
-```
+
 
 If an IC has been supplied from various companies then each company's datasheet is available.
 
