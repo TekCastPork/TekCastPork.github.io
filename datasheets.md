@@ -28,7 +28,7 @@ If an IC has been supplied from various companies then each company's datasheet 
 
 NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI datasheets now if an actual NS datasheet could not be found.
 
-NOTICE 2: All the ships here are ones that I have in my kit, so some of them may not be what we actually were given, so don't panic if you can't find one of the ICs in your kits.
+NOTICE 2: All the chips here are ones that I have in my kit, so some of them may not be what we actually were given, so don't panic if you can't find one of the ICs in your kits.
 
 ## Basic Logic ICs
 
