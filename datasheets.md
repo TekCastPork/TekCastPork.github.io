@@ -40,7 +40,7 @@ NOTICE 2: All the chips here are ones that I have in my kit, so some of them may
 
 [HCF4093BE](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)
 
-[Back To Top ^](#the-fault-of-ent-datasheets)
+[Back To Top ^](#the-vault-of-ent-datasheets)
 
 ### TTL Devices
 
@@ -62,7 +62,7 @@ NOTICE 2: All the chips here are ones that I have in my kit, so some of them may
 
 74xx86  [Texas Instruments](https://drive.google.com/open?id=1hoYeUkGzmJT91FYZjoB8P2LG9bd21fjx)
 
-[Back To Top ^](#the-fault-of-ent-datasheets)
+[Back To Top ^](#the-vault-of-ent-datasheets)
 
 ## Complex Logic
 
@@ -80,7 +80,7 @@ MC14519BCP [Motorola](https://drive.google.com/open?id=1g1SOeCS3kdNTH6JH8_D50nkJ
 
 MC14528BCP [Motorola](https://drive.google.com/open?id=1c_yyOcM3abUXGCb-qL_mpHinqersTxZk)
 
-[Back To Top ^](#the-fault-of-ent-datasheets)
+[Back To Top ^](#the-vault-of-ent-datasheets)
 
 
 ### TTL
@@ -97,7 +97,7 @@ MC14528BCP [Motorola](https://drive.google.com/open?id=1c_yyOcM3abUXGCb-qL_mpHin
 
 74xx112 [Texas Instruments](https://drive.google.com/open?id=1BgNmtFbU1e6_l001hqcVnIhUC0nOo5MX)
 
-[Back To Top ^](#the-fault-of-ent-datasheets)
+[Back To Top ^](#the-vault-of-ent-datasheets)
 
 ## Specialty ICs
 
@@ -121,4 +121,4 @@ TLC555CP [Texas Instruments](https://drive.google.com/open?id=1woYvqFN18ofIOwZGe
 
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
 
-[Back To Top ^](#the-fault-of-ent-datasheets)
+[Back To Top ^](#the-vault-of-ent-datasheets)
