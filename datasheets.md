@@ -34,11 +34,11 @@ NOTICE 2: All the chips here are ones that I have in my kit, so some of them may
 
 ### CMOS Devices
 
-[CD4001BCN](https://drive.google.com/open?id=1-Jo6tLunuOtY07XgLxTv4FBo0hu1gmj2)
+CD4001BCN	[Texas Instruments](https://drive.google.com/open?id=1-Jo6tLunuOtY07XgLxTv4FBo0hu1gmj2)
 
-[CD4011BCN](https://drive.google.com/open?id=1cJwr-TIiIKSl6fuCsiZ0-hBzUZ9PUiWW)
+CD4011BCN	[Texas Instruments](https://drive.google.com/open?id=1cJwr-TIiIKSl6fuCsiZ0-hBzUZ9PUiWW)
 
-[HCF4093BE](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)
+HCF4093BE	[ST Microelectronics](https://drive.google.com/open?id=1proF1bW_mIxSDhZjjQSn46tm_ELOrJk6)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
 
@@ -107,7 +107,7 @@ DAC0808LCN [Texas Instruments](https://drive.google.com/open?id=1wM3DyJmQWhzrY_H
 
 LM324 [Fairchild Semiconductor](https://drive.google.com/open?id=1xbeHD2CDv3UmxIgt9lQaaJR2-jRRU570)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments AN variety](https://drive.google.com/open?id=1Xj8xCuCDmd-oWxMEfa9ruNhR3wTK9Clm)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments N variety](https://drive.google.com/open?id=1UkQpAlRUPesoJpe7F-E8JdOImewLOrqi)
 
-LM211 [STMicroelectronics](https://drive.google.com/open?id=1Rh33Ru9dFmxr7qkW4uLdCJabyLv7jku6)
+LM211 [ST Microelectronics](https://drive.google.com/open?id=1Rh33Ru9dFmxr7qkW4uLdCJabyLv7jku6)
 
 LM311 [Texas Instruments](https://drive.google.com/open?id=1np1-28nHkJUtLR3kc9WqFm-csIz920p-)
 
