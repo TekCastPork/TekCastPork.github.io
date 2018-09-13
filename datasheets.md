@@ -14,10 +14,10 @@ layout: modified2
 ### Updates:
 - If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
 
- - Most recent change: Added 2 more datasheets for LM741. Datasheets from National Semiconductor and Fairchild Semiconductor.
+ - Most recent change: Added 2 more datasheets for LM741. Datasheets from National Semiconductor and Fairchild Semiconductor. These can be found in the [Specialty IC](#specialty-ic) section
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
-This collection is sorted as follows:
+This collection is sorted as follows (Also, all yellow text is clickable links):
 
 
 - [Basic Logic](#basic-logic-ics) (AND, NAND, OR, ETC)
