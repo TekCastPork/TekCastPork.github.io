@@ -105,7 +105,7 @@ ADC0804LCN [Texas Instruments](https://drive.google.com/open?id=1rKV0_a4NVUKdHlR
 
 DAC0808LCN [Texas Instruments](https://drive.google.com/open?id=1wM3DyJmQWhzrY_HCvC0rqs1gzDfqlsIt)
 
-LM324 [Fairchild Semiconductor](https://drive.google.com/open?id=1xbeHD2CDv3UmxIgt9lQaaJR2-jRRU570)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments AN variety](https://drive.google.com/open?id=1Xj8xCuCDmd-oWxMEfa9ruNhR3wTK9Clm)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments N variety](https://drive.google.com/open?id=1UkQpAlRUPesoJpe7F-E8JdOImewLOrqi)
+LM324 [Fairchild Semiconductor](https://drive.google.com/open?id=1xbeHD2CDv3UmxIgt9lQaaJR2-jRRU570)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments AN variety](https://drive.google.com/open?id=1Xj8xCuCDmd-oWxMEfa9ruNhR3wTK9Clm)&nbsp;&nbsp;-&nbsp;&nbsp;[Texas Instruments N variety](https://drive.google.com/open?id=1UkQpAlRUPesoJpe7F-E8JdOImewLOrqi)&nbsp;&nbsp;-&nbsp;&nbsp;[Fairchild](https://drive.google.com/open?id=1LxRasp9CjyNIPnwXPA-LFM05L99fhoxu)
 
 LM211 [ST Microelectronics](https://drive.google.com/open?id=1Rh33Ru9dFmxr7qkW4uLdCJabyLv7jku6)
 
@@ -113,7 +113,7 @@ LM311 [Texas Instruments](https://drive.google.com/open?id=1np1-28nHkJUtLR3kc9Wq
 
 LM339 [UniSonic Technologies](https://drive.google.com/open?id=1E5hPBnfsueUYzsulBthxA3Cw9r_ds-vP)
 
-LM741 [Texas Instruments](https://drive.google.com/open?id=1houmN-Irk56Wm9-ASu5TMZV6ymhWiW8A)
+LM741 [Texas Instruments](https://drive.google.com/open?id=1houmN-Irk56Wm9-ASu5TMZV6ymhWiW8A)&nbsp;&nbsp;-&nbsp;&nbsp;[National Semiconductor](https://drive.google.com/open?id=1HIfN52Mf6ufed4wVb2AzJuih6mY653NF)
 
 TL082CP [Texas Instruments](https://drive.google.com/open?id=1OyBTGZdDtJVKvmaXyl_9ucG09J0NHgbc)
 
