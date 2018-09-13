@@ -30,6 +30,10 @@ NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI 
 
 NOTICE 2: All the chips here are ones that I have in my kit, so some of them may not be what we actually were given, so don't panic if you can't find one of the ICs in your kits.
 
+### Updates:
+- If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
+ - Most recent change: Added 2 more datasheets for LM741. Datasheets from National Semiconductor and Fairchild Semiconductor.
+
 ## Basic Logic ICs
 
 ### CMOS Devices
