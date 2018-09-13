@@ -17,7 +17,7 @@ layout: modified2
  - Most recent change: Added 2 more datasheets for LM741. Datasheets from National Semiconductor and Fairchild Semiconductor. These can be found in the [Specialty IC](#specialty-ic) section
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
-This collection is sorted as follows (Also, all yellow text is clickable links):
+This collection is sorted as follows:
 
 
 - [Basic Logic](#basic-logic-ics) (AND, NAND, OR, ETC)
