@@ -27,6 +27,7 @@ This collection is sorted as follows:
 	- [CMOS](#cmos)
 	- [TTL](#ttl)
 - [Specialty](#specialty-ics) (555 timer, DAC, ADC, ETC)
+- [Olimex Board](#olimex-board)
 
 If an IC has been supplied from various companies then each company's datasheet is available.
 
@@ -126,5 +127,19 @@ TL082CP [Texas Instruments](https://drive.google.com/open?id=1OyBTGZdDtJVKvmaXyl
 TLC555CP [Texas Instruments](https://drive.google.com/open?id=1woYvqFN18ofIOwZGe3b7lKZZVephdn8U)
 
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
+
+[Back To Top ^](#the-vault-of-ent-datasheets)
+
+## Olimex Board
+
+[Programming Manual](https://drive.google.com/open?id=16lXSqdDQLtYl-4urV-YlaLDzM_cdjK6w) (Assembly level)
+
+[User Manual](https://drive.google.com/open?id=1s7yP5pZ9stomm-Or0xI3iNMUI9VI1lcV)
+
+[Generic Datasheet](https://drive.google.com/open?id=1v6S2priDHsdBqqSlyou-tVsJsSTVeySx) (applies to multiple chips)
+
+[More Specific Datasheet](https://drive.google.com/open?id=1Fw77ZAclmgufrtS566y1rlsMwS_fwlDC)
+
+[Schematic](https://drive.google.com/open?id=1He_3GZK2SHGHOQBt6r-RIP8_MVyoHinr)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
