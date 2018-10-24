@@ -126,6 +126,8 @@ TL082CP [Texas Instruments](https://drive.google.com/open?id=1OyBTGZdDtJVKvmaXyl
 
 TLC555CP [Texas Instruments](https://drive.google.com/open?id=1woYvqFN18ofIOwZGe3b7lKZZVephdn8U)
 
+NE5532 [Texas Instruments](https://drive.google.com/open?id=1wLVUIh6I-LSNAbCYf4eCzdIG3HgH03MQ)
+
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
