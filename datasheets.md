@@ -130,6 +130,8 @@ NE5532 [Texas Instruments](https://drive.google.com/open?id=1wLVUIh6I-LSNAbCYf4e
 
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
 
+TL074ACN [Texas Instruments](https://drive.google.com/open?id=1YH1jwLFYXXSLDGkidpGOv6NcJMoSp9Ij)
+
 [Back To Top ^](#the-vault-of-ent-datasheets)
 
 ## Olimex Board
