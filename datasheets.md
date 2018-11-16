@@ -14,7 +14,7 @@ layout: modified2
 ### Updates:
 - If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
 
- - Most recent change: Added 2 more datasheets for LM741. Datasheets from National Semiconductor and Fairchild Semiconductor. These can be found in the [Specialty IC](#specialty-ic) section
+ - Most recent change: Added datasheets for EEPROM ICs from Micro class. These can be found in the [Specialty IC](#specialty-ics) section
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
@@ -131,6 +131,10 @@ NE5532 [Texas Instruments](https://drive.google.com/open?id=1wLVUIh6I-LSNAbCYf4e
 UA741CP [Texas Instruments](https://drive.google.com/open?id=1xo7G3K9zpXOsBLfz_05n6Q-_bBwGsB8p)
 
 TL074ACN [Texas Instruments](https://drive.google.com/open?id=1YH1jwLFYXXSLDGkidpGOv6NcJMoSp9Ij)
+
+FT24C02A [Fremont MicroElectronics](https://drive.google.com/open?id=1wbAl4MLkLmRxPoxRqwfPBBg37yQrNDmz)
+
+FT93C66A [Fremont MicroElectronics](https://drive.google.com/open?id=19r6GuqCbAMqT5yxv4e_EkIXZlrXsuCiX)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
 
