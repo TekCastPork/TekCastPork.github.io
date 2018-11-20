@@ -14,7 +14,7 @@ layout: modified2
 ### Updates:
 - If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
 
- - Most recent change: Added datasheets for EEPROM ICs from Micro class. These can be found in the [Specialty IC](#specialty-ics) section
+ - Most recent change: Added datasheets for 4 Linear Voltage Regulators. These can be found in the new [Voltage Regulators](#voltage-regulators) section.
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
@@ -28,12 +28,13 @@ This collection is sorted as follows:
 	- [TTL](#ttl)
 - [Specialty](#specialty-ics) (555 timer, DAC, ADC, ETC)
 - [Olimex Board](#olimex-board)
+- [Voltage Regulators](#voltage-regulators)
 
 If an IC has been supplied from various companies then each company's datasheet is available.
 
 NOTICE: Texas Instruments acquired National Semiconductor, so any NS ICs use TI datasheets now if an actual NS datasheet could not be found.
 
-NOTICE 2: All the chips here are ones that I have in my kit, so some of them may not be what we actually were given, so don't panic if you can't find one of the ICs in your kits.
+
 
 
 
@@ -149,5 +150,17 @@ FT93C66A [Fremont MicroElectronics](https://drive.google.com/open?id=19r6GuqCbAM
 [More Specific Datasheet](https://drive.google.com/open?id=1Fw77ZAclmgufrtS566y1rlsMwS_fwlDC)
 
 [Schematic](https://drive.google.com/open?id=1He_3GZK2SHGHOQBt6r-RIP8_MVyoHinr)
+
+[Back To Top ^](#the-vault-of-ent-datasheets)
+
+## Voltage Regulators
+
+LM317 [Texas Instruments](https://drive.google.com/open?id=1iV7r5YlRtXca-O6IqX9qmLb-XIM-mLZ2)
+
+LM337 [Texas Instruments](https://drive.google.com/open?id=1pp9kY8z0wmNsPHoOfKAXalbcKAQnob1G)
+
+7812 [Texas Instruments](https://drive.google.com/open?id=1CSGHPu46kK6_lPIGTqLt9TaoHxwtmFn2)
+
+7912 [Texas Instruments](https://drive.google.com/open?id=1S2ErBLn2IHmKx-Q7NBZQ93F12hc_HCFw)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
