@@ -14,7 +14,8 @@ layout: modified2
 ### Updates:
 - If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
 
- - Most recent change: Added datasheets for 4 Linear Voltage Regulators. These can be found in the new [Voltage Regulators](#voltage-regulators) section.
+### Most recent change: 
+- Added datasheet for LM13700A OTA. This datasheet can be found in the [Specialty](#specialty-ics) section.
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
@@ -136,6 +137,8 @@ TL074ACN [Texas Instruments](https://drive.google.com/open?id=1YH1jwLFYXXSLDGkid
 FT24C02A [Fremont MicroElectronics](https://drive.google.com/open?id=1wbAl4MLkLmRxPoxRqwfPBBg37yQrNDmz)
 
 FT93C66A [Fremont MicroElectronics](https://drive.google.com/open?id=19r6GuqCbAMqT5yxv4e_EkIXZlrXsuCiX)
+
+LM13700 OTA [Texas Instruments](https://drive.google.com/open?id=1_BrtM4CYodwdEp3Yk3Sa5TGZ_Uv__5KD)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
 
