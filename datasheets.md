@@ -15,7 +15,7 @@ layout: modified2
 - If you think a datasheet is missing or that a correction needs to be made, please submit a ticket [here](https://github.com/TekCastPork/TekCastPork.github.io/issues/new/choose). Using those forms will let me know/remind me since it will email me.
 
 ### Most recent change: 
-- Added datasheet for LM13700A OTA. This datasheet can be found in the [Specialty](#specialty-ics) section.
+- Added datasheet TIP14X family of transistor, in the new [Discrete Logic](#discrete-logic) section.
 
 This is a collection of datasheets for the ICs currently used in Electronics Engineering Tech.
 This collection is sorted as follows:
@@ -30,6 +30,7 @@ This collection is sorted as follows:
 - [Specialty](#specialty-ics) (555 timer, DAC, ADC, ETC)
 - [Olimex Board](#olimex-board)
 - [Voltage Regulators](#voltage-regulators)
+- [Discrete Logic](#discrete-logic)
 
 If an IC has been supplied from various companies then each company's datasheet is available.
 
@@ -165,5 +166,11 @@ LM337 [Texas Instruments](https://drive.google.com/open?id=1pp9kY8z0wmNsPHoOfKAX
 7812 [Texas Instruments](https://drive.google.com/open?id=1CSGHPu46kK6_lPIGTqLt9TaoHxwtmFn2)
 
 7912 [Texas Instruments](https://drive.google.com/open?id=1S2ErBLn2IHmKx-Q7NBZQ93F12hc_HCFw)
+
+[Back To Top ^](#the-vault-of-ent-datasheets)
+
+## Discrete Logic
+
+TIP14X Power Transistors [ON Semi](https://drive.google.com/open?id=1SMAQXxKZXCJCUXpeH3rQI_f9Iqkhsqmj)
 
 [Back To Top ^](#the-vault-of-ent-datasheets)
